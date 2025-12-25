@@ -1,18 +1,42 @@
-# todo_app
+<div align="center">
 
-A new Flutter project.
+# 🎨 Flutter Implicit Animations
 
-## Getting Started
+A clean and well-structured Flutter project demonstrating **implicit animations** using  
+**AnimatedOpacity** and **AnimatedScale**, built with **Material 3** and modern UI practices.
 
-This project is a starting point for a Flutter application.
+Flutter • Dart • Material 3 • Implicit Animations
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# Flutter_Animated_Toggle" 
-"# flutter-implicit-animations" 
+## ✨ Features
+
+| Feature | Description |
+|-------|-------------|
+| 🎞️ AnimatedOpacity | Smooth fade in and fade out animation |
+| 📐 AnimatedScale | Scale animation combined with opacity |
+| 🌙 Dark Mode | Automatically adapts to system theme |
+| 🎨 Material 3 | Uses modern Material You design |
+| 🧠 Clean State | Simple and readable state management |
+
+---
+
+## 🚀 Getting Started
+
+### 📌 Prerequisites
+
+| Tool | Requirement |
+|----|-------------|
+| Flutter SDK | Version 3.x or later |
+| Dart | Comes with Flutter |
+| IDE | Android Studio / VS Code |
+
+---
+
+### 📥 Installation
+
+#### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/Muhammad-Shaheer-Ahmed-Siddique/flutter-implicit-animations.git
